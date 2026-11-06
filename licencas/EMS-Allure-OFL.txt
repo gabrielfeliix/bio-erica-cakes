@@ -1,0 +1,3 @@
+O traço de "Bem-vindos" foi desenhado a partir da fonte EMS Allure
+(Sheldon B. Michaels / Windell H. Oskay, derivada da Allura de Rob Leuschke, TypeSETit),
+licenciada sob a SIL Open Font License 1.1: https://openfontlicense.org
